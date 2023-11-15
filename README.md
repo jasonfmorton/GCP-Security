@@ -2,9 +2,8 @@
 
 Top GCP Security Resources
 
-Cloud Architecture Center[Landing Zone] (https://cloud.google.com/architecture/landing-zones)
+Start Here 
 
-[Landing Zone]
-
+GCP Deployment Concepts
 [Landing zone ](https://cloud.google.com/architecture/landing-zones)
 
